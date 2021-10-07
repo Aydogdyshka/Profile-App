@@ -15,6 +15,7 @@
 		68A76414270B255100E465AA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 68A76412270B255100E465AA /* LaunchScreen.storyboard */; };
 		68A7641F270B255200E465AA /* dev_profileTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68A7641E270B255200E465AA /* dev_profileTests.swift */; };
 		68A7642A270B255200E465AA /* dev_profileUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68A76429270B255200E465AA /* dev_profileUITests.swift */; };
+		68A7643B270B2BB400E465AA /* CutomImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68A7643A270B2BB400E465AA /* CutomImageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		68A76425270B255200E465AA /* dev-profileUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "dev-profileUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		68A76429270B255200E465AA /* dev_profileUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dev_profileUITests.swift; sourceTree = "<group>"; };
 		68A7642B270B255200E465AA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		68A7643A270B2BB400E465AA /* CutomImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CutomImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				68A76410270B255100E465AA /* Assets.xcassets */,
 				68A76412270B255100E465AA /* LaunchScreen.storyboard */,
 				68A76415270B255100E465AA /* Info.plist */,
+				68A7643A270B2BB400E465AA /* CutomImageView.swift */,
 			);
 			path = "dev-profile";
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				68A7640C270B255000E465AA /* ViewController.swift in Sources */,
+				68A7643B270B2BB400E465AA /* CutomImageView.swift in Sources */,
 				68A76408270B255000E465AA /* AppDelegate.swift in Sources */,
 				68A7640A270B255000E465AA /* SceneDelegate.swift in Sources */,
 			);
